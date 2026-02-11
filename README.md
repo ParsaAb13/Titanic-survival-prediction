@@ -28,9 +28,20 @@ This project analyzes the famous Titanic dataset to build a predictive model for
 ## 📈 Results
 The model achieves competitive accuracy in predicting passenger survival based on key features like gender, age, fare, and family size.
 
+## Connect with Me  
+
+Feel free to follow me or connect on my social media:  
+- [LinkedIn](https://www.linkedin.com/in/parsaabedin/)  
+- [Twitter](x.com/AbedinParsaa)  
+- [GitHub](https://github.com/ParsaAb13)  
+- [Kaggle](https://www.kaggle.com/parsaabedin)  
+
+Thank you for your support! 😊  
+
 ## 🚀 How to Run
 1. Ensure you have the required libraries: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`
 2. Download the Titanic dataset (tested.csv)
 3. Run the script:
 ```bash
 python titanic2.py
+
